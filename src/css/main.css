@@ -1,0 +1,14 @@
+/* Pagination */
+.page-list {
+	list-style: none
+}
+
+.page {
+	display: inline-block;
+	margin: 0px 4px;
+}
+
+/* Pagination, GenreFilter */
+.active-page, .active-genre {
+	border: 3px solid black;
+}
